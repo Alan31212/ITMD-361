@@ -1,0 +1,35 @@
+h1{
+  font-family: 'Rampart One', cursive;
+  margin-right: auto;
+  margin-left: 750px;
+  border-collapse:collapse;
+  }
+.pictureform {
+  width: 200px;
+  border-radius:50%
+  }
+
+.grey{
+  background-color: gray;
+}
+td{
+  padding: 10px;
+  font-family: 'Russo One', sans-serif;
+}
+#planets {
+  margin-right: auto;
+  margin-left: auto;
+  border-collapse:collapse;
+}
+#planets th{
+  font-family: 'Russo One', sans-serif;
+  }
+
+.planet {
+  font-size: 2.5em;
+  font-family: 'Russo One', sans-serif;
+}
+table{
+  background-color: rgb(85, 129, 218 );
+  margin: 100px;
+}
